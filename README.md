@@ -1,7 +1,13 @@
 
 # Hi 👋, I'm Bautista 
 
-I'm a Frontend developer.
+I'm a passionate Full Stack Developer with over 3 years of experience building robust web applications. My focus is on crafting intuitive and high-performance web solutions, both on the frontend and backend, using modern technologies. I have built applications using React, Next, Vue, Astro on the frontend and Node, Express on the backend.
+
+I specialize in creating responsive and dynamic user interfaces, proficient in building scalable APIs with Node.js, using frameworks like AdonisJS, while managing databases such as MySQL. I’m also skilled in managing queues and background tasks, ensuring smooth performance for complex applications.
+
+I'm constantly seeking opportunities to improve my skill set, and I'm particularly interested in adopting new tools and frameworks. My work is driven by a desire to deliver solutions that meet user needs while maintaining performance, scalability, and security.
+
+With my skills, I’m a perfect fit for roles like Full Stack Developer, Vue.js Developer, or Backend Developer. I’m open to remote work and thrive in collaborative, agile environments where I can continuously grow and contribute 😊
 
 • Studying Computer Systems Analysis.
 
